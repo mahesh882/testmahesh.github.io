@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fed50085.chunk.css",
+    "main.js": "/static/js/main.d21aa454.chunk.js",
+    "main.js.map": "/static/js/main.d21aa454.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90ed5dff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90ed5dff.js.map",
+    "static/js/2.55ff5690.chunk.js": "/static/js/2.55ff5690.chunk.js",
+    "static/js/2.55ff5690.chunk.js.map": "/static/js/2.55ff5690.chunk.js.map",
+    "static/js/3.7471c822.chunk.js": "/static/js/3.7471c822.chunk.js",
+    "static/js/3.7471c822.chunk.js.map": "/static/js/3.7471c822.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fed50085.chunk.css.map": "/static/css/main.fed50085.chunk.css.map",
+    "static/js/2.55ff5690.chunk.js.LICENSE.txt": "/static/js/2.55ff5690.chunk.js.LICENSE.txt",
+    "static/media/Always-pay-the-right-person.8241b6f3.webp": "/static/media/Always-pay-the-right-person.8241b6f3.webp",
+    "static/media/Home_Interest.3285ff04.jpg": "/static/media/Home_Interest.3285ff04.jpg",
+    "static/media/Home_Trade.1921a7a1.jpg": "/static/media/Home_Trade.1921a7a1.jpg",
+    "static/media/Home_fund_your_wallet.4653c02c.jpg": "/static/media/Home_fund_your_wallet.4653c02c.jpg",
+    "static/media/Homepage_Desktop_UI_Comp_01 (1).74f71147.png": "/static/media/Homepage_Desktop_UI_Comp_01 (1).74f71147.png",
+    "static/media/Homepage_Desktop_UI_Comp_01__1_.8d1ef70d.png": "/static/media/Homepage_Desktop_UI_Comp_01__1_.8d1ef70d.png",
+    "static/media/Sc1.6e97f8e6.jpg": "/static/media/Sc1.6e97f8e6.jpg",
+    "static/media/Tips_and_Trips_Desktop_UI_Comp_03.1ad4fca2.webp": "/static/media/Tips_and_Trips_Desktop_UI_Comp_03.1ad4fca2.webp",
+    "static/media/apple-icon.3973bfb1.svg": "/static/media/apple-icon.3973bfb1.svg",
+    "static/media/google-play.d6b7bc99.svg": "/static/media/google-play.d6b7bc99.svg",
+    "static/media/home_build_your_portfolio.d0c870d1.jpg": "/static/media/home_build_your_portfolio.d0c870d1.jpg",
+    "static/media/logo.351a8b5c.png": "/static/media/logo.351a8b5c.png",
+    "static/media/number-01.6a70c66d.svg": "/static/media/number-01.6a70c66d.svg",
+    "static/media/number-02.d7b01cad.svg": "/static/media/number-02.d7b01cad.svg",
+    "static/media/number-03.c6a94f65.svg": "/static/media/number-03.c6a94f65.svg",
+    "static/media/sc2.569f310f.jpg": "/static/media/sc2.569f310f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90ed5dff.js",
+    "static/js/2.55ff5690.chunk.js",
+    "static/css/main.fed50085.chunk.css",
+    "static/js/main.d21aa454.chunk.js"
+  ]
+}
